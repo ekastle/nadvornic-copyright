@@ -12,6 +12,12 @@ This directory holds research notes on individual musical works associated with 
 | God Save America | 1941 | [god-save-america/](god-save-america/) | Initial research complete |
 | Christmas Chants (arrangement) | 1946 | [christmas-chants/](christmas-chants/) | Initial research complete |
 
+## Narrative and Context
+
+A narrative placing the documents in their historical setting (Dickinson, ND, and Scio, OR Czech-American communities) is available at:
+
+**[document-story.md](document-story.md)**
+
 ## Copyright Office Requests
 
 A consolidated document with all registration details needed to request deposit copies, plus a tracking log for submissions and results, is available at:
