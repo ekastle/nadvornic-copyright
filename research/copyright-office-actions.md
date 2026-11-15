@@ -15,9 +15,30 @@ This document consolidates the information needed to request deposit copies of F
 
 - Online: Search the Copyright Public Records System (https://publicrecords.copyright.gov) and use available request options.
 - Form: Form Copy (https://www.copyright.gov/forms/form-copy.pdf) or current equivalent on copyright.gov.
-- Contact: Use the “Copies of Works” or “Contact Us” information on copyright.gov. Older deposits may involve retrieval fees and multi-week processing times.
+- Contact: Use the “Copies of Works” or “Contact Us” information on copyright.gov. Older deposits may involve retrieval fees and multi-week processing times. Physical or digital copies of the works themselves are not available for download in the Public Records System; they must be requested via Records Research and Certification.
 
 Always include the registration number, title, claimant, and publication date for each work.
+
+---
+
+## Copyright Public Records System Search Results (2026-11-15)
+
+A keyword search for “Nadvornik” on https://publicrecords.copyright.gov returned the following relevant pre-1978 musical registrations. Card catalog records (approx. 1898–1945) are partially digitized and searchable; not every entry may appear.
+
+| Full Title (as indexed) | Registration Number | Date (as indexed) | Type | Claimant |
+|-------------------------|---------------------|-------------------|------|----------|
+| A Song “God Save America” for Piano. | E pub. 94647 | 1941-05-09 | Musical Composition | Frank Nadvornik |
+| Česko-Slovenský Zběh, Pochod. Czecho-Slovak Deserter March. | E 505931 | 1921-04-25 | Republished Musical Composition | Frank Nadvornik |
+| Česko-Slovenský Zběh, Pochod, Czecho-Slovak Deserter March | E 503142 | 1921-02-21 | Musical Composition | Frank Nadvornik |
+| Ave Mundi | E 473682 | 1920-03-17 | Musical Composition | Frank Nadvornik |
+
+**Observations:**
+- *God Save America* matches the family certificate (E pub. 94647). The system title adds “A Song … for Piano.”
+- The two *Česko-Slovenský Zběh / Czecho-Slovak Deserter March* entries use registration numbers that closely match the 1921 certificates in the scan (503142 and near 505731). The catalog titles differ from the transcribed “Československý Bílý Pochod” and “Česká Družba March.” These may represent the same works under alternate indexing, additional registrations, or related pieces. No results were returned for “Bílý,” “White March,” or the exact transcribed titles.
+- *Ave Mundi* matches the registration number (E 473682) but the system lists the date as 1920-03-17 rather than the 1926 date from the certificate transcription.
+- *Christmas Chants* (EP-8701, 1946) did not appear in keyword, title, or registration-number searches. This is consistent with incomplete digitization of all card-catalog entries.
+
+Deposit copies remain available only by formal request to the Copyright Office.
 
 ---
 
@@ -32,7 +53,7 @@ Always include the registration number, title, claimant, and publication date fo
 - **Copies received:** 21 February 1921
 - **Registration:** Class E, XXc, No. 503142
 - **Register:** Thorvald Solberg
-- **Notes:** Early certificate associated with the inner envelope.
+- **Notes:** Early certificate associated with the inner envelope. Public Records System indexes related 1921 entries under the title *Česko-Slovenský Zběh, Pochod / Czecho-Slovak Deserter March* (E 503142 and E 505931).
 
 ### 2. Česká Družba March (Czech Friendship March)
 
@@ -42,17 +63,17 @@ Always include the registration number, title, claimant, and publication date fo
 - **Type:** Arrangement (copyright claimed on the arrangement)
 - **Publication date:** 6 March 1921
 - **Registration:** Class E, XXc, No. 505731
-- **Notes:** Early certificate associated with the inner envelope.
+- **Notes:** Early certificate associated with the inner envelope. See Public Records note above regarding possible related indexing under *Zběh / Deserter March*.
 
 ### 3. Ave Mundi
 
 - **Title:** Ave Mundi
 - **Words:** Joseph Horpesty
 - **Music / Claimant:** Frank Nadvornik
-- **Publication date:** 7 March 1926
+- **Publication date:** 7 March 1926 (certificate); system indexes 1920-03-17
 - **Registration:** Class E, XXc, No. 473682
 - **Associated place:** Dickinson, North Dakota
-- **Notes:** Certificate associated with the inner envelope materials.
+- **Notes:** Certificate associated with the inner envelope materials. Public Records System confirms the registration number with a differing date.
 
 ### 4. God Save America
 
@@ -63,7 +84,7 @@ Always include the registration number, title, claimant, and publication date fo
 - **Copies received:** 24 April 1941
 - **Registration:** Class E pub. No. 94647
 - **Voicing:** Mixed voices
-- **Notes:** Certificate and outer envelope from the Copyright Office (postmarked January 1941). Handwritten note on Circular No. 58 indicates $2.00 remitted and 2 copies sent April 18, 1941.
+- **Notes:** Certificate and outer envelope from the Copyright Office (postmarked January 1941). Handwritten note on Circular No. 58 indicates $2.00 remitted and 2 copies sent April 18, 1941. Public Records System indexes the title as “A Song ‘God Save America’ for Piano.”
 
 ### 5. Christmas Chants / Vánoční zpěvy
 
@@ -75,7 +96,7 @@ Always include the registration number, title, claimant, and publication date fo
 - **Registration:** EP-8701 (Class E)
 - **Pages:** 14
 - **Instrumentation:** SATB chorus, piano, violin 1, violin 2, clarinet, trumpet
-- **Notes:** Bilingual arrangement. Certificate appears in the original scan.
+- **Notes:** Bilingual arrangement. Certificate appears in the original scan. Not located in Public Records System searches (possible incomplete card-catalog digitization).
 
 ---
 
@@ -85,11 +106,11 @@ Use this table to record submissions and outcomes. Add rows as needed.
 
 | Work | Registration | Date Submitted | Method | Confirmation / Reference | Fee Paid | Date Received | Location of Received Materials | Notes |
 |------|--------------|----------------|--------|---------------------------|----------|---------------|--------------------------------|-------|
-| Československý Bílý Pochod | 503142 |  |  |  |  |  |  |  |
-| Česká Družba March | 505731 |  |  |  |  |  |  |  |
-| Ave Mundi | 473682 |  |  |  |  |  |  |  |
-| God Save America | E pub. 94647 |  |  |  |  |  |  |  |
-| Christmas Chants | EP-8701 |  |  |  |  |  |  |  |
+| Československý Bílý Pochod | 503142 |  |  |  |  |  |  | Public Records shows related Zběh/Deserter March entries |
+| Česká Družba March | 505731 |  |  |  |  |  |  | See related Public Records indexing |
+| Ave Mundi | 473682 |  |  |  |  |  |  | System date differs (1920-03-17) |
+| God Save America | E pub. 94647 |  |  |  |  |  |  | Confirmed in Public Records |
+| Christmas Chants | EP-8701 |  |  |  |  |  |  | Not found in Public Records search |
 
 ---
 
@@ -100,4 +121,5 @@ Use this table to record submissions and outcomes. Add rows as needed.
 - Once materials are received, update the corresponding folder under `research/` and consider adding high-quality scans or PDFs to the repository (using Git LFS if files are large).
 - Related circulars and correspondence from the original scan are documented in `transcripts/key_documents.md`.
 
-**Primary source for all details above:** Original scan (`scans/Frank_Nadvornik_Copyright.pdf`) and transcriptions in this repository.
+**Primary source for certificate details:** Original scan (`scans/Frank_Nadvornik_Copyright.pdf`) and transcriptions in this repository.  
+**Public Records search performed:** 2026-11-15 on https://publicrecords.copyright.gov.
