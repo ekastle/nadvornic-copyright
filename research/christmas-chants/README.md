@@ -42,7 +42,11 @@ Source: Internet Archive — [catalogofcopyrig413lib](https://archive.org/detail
 - No matches in major sheet-music databases, Czech carol collections, or general web searches for the bilingual title or the registration number.
 - The deposited copies reside with the U.S. Copyright Office / Library of Congress and do not appear to have been digitized.
 
-## Open questions / next steps
+## Next steps
+
+Detailed instructions for obtaining the score and related materials are in [next-steps.md](next-steps.md).
+
+Summary of recommended actions:
 
 - Request a copy of the deposited work from the U.S. Copyright Office using registration EP-8701.
 - Check family papers or local Scio / Albany (Oregon) Czech-American church or community archives.
@@ -50,5 +54,5 @@ Source: Internet Archive — [catalogofcopyrig413lib](https://archive.org/detail
 
 ## Related documents in this repository
 
-- Certificate of registration appears in the original scan (`../scans/`).
+- Certificate of registration appears in the original scan (`../../scans/`).
 - See also the main [README](../../README.md) and [transcripts](../../transcripts/) for broader context on Nadvornik’s copyright materials.
