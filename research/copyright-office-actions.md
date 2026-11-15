@@ -21,6 +21,55 @@ Always include the registration number, title, claimant, and publication date fo
 
 ---
 
+## How to request deposit copies (Records Research and Certification)
+
+Start at the Records Research and Certification overview: https://www.copyright.gov/rrc/
+
+### Recommended starting point
+- **Copy estimate form**: https://help.copyright.gov/Contact/s/copy-estimate  
+  Use this online form to request a fee estimate for retrieval and copying of deposit materials (or additional certificates/correspondence).
+
+### What to request
+Select or specify **copies of deposits** (reproductions of the published or unpublished works deposited with the registration). You may also request additional certificates of registration if desired.
+
+### Conditions required for deposit copies
+The Copyright Office will supply a reproduction of a deposited work only when one of the following three conditions is met:
+
+1. **Written authorization** from the copyright claimant of record (or the current owner of any exclusive rights), accompanied by documentation demonstrating ownership. If a transfer was recorded, include volume/page numbers and year if known; otherwise a search fee may apply.
+2. **Completed Copyright Office Litigation Statement Form (Form LS)** from an attorney or authorized representative for actual or prospective litigation. Contact the division for the current form (no substitutes accepted). See https://www.copyright.gov/rrc/litigation.html.
+3. **Court order** from a court with jurisdiction over the relevant case.
+
+For family research involving works registered to Frank Nadvornik (deceased), you will typically need to demonstrate current ownership interest as heir or successor, or pursue the litigation-statement route if applicable. Contact the Records Research and Certification Division if you need guidance on acceptable documentation.
+
+### Information to include in the request
+- Registration number(s) (e.g., E pub. 94647, EP-8701, E 503142, E 473682, etc.)
+- Title(s)
+- Claimant name (Frank Nadvornik)
+- Year of publication or registration
+- Whether certified or uncertified copies are desired
+- Your daytime telephone, mailing address, and email
+- Documentation showing one of the three conditions above is met
+
+### Approximate fees (confirm current schedule)
+- Estimate fee: $200 (usually credited toward the actual fee)
+- Retrieval of paper records: $200/hour (1-hour minimum)
+- Retrieval of digital records: $100 for first 30 minutes, $50 per additional 15 minutes
+- Staff copying (standard media): $12
+- Additional certificate of registration: $55
+- Certification and expedited services carry higher fees
+
+Payment is accepted via https://www.pay.gov.
+
+### Other useful links on the RRC page
+- Search estimate: https://help.copyright.gov/Contact/s/search-estimate
+- General research inquiry: https://help.copyright.gov/Contact/s/general-research-inquiry
+- Litigation services: https://www.copyright.gov/rrc/litigation.html
+- Copyright Public Records System: https://publicrecords.copyright.gov/
+
+**Practical next step:** Submit the copy-estimate form listing all five works with their registration numbers from the sections below. The office will reply with an estimate and any additional authorization requirements.
+
+---
+
 ## Copyright Public Records System Search Results (2026-11-15)
 
 A keyword search for “Nadvornik” on https://publicrecords.copyright.gov returned the following relevant pre-1978 musical registrations. Card catalog records (approx. 1898–1945) are partially digitized and searchable; not every entry may appear.
@@ -122,4 +171,5 @@ Use this table to record submissions and outcomes. Add rows as needed.
 - Related circulars and correspondence from the original scan are documented in `transcripts/key_documents.md`.
 
 **Primary source for certificate details:** Original scan (`scans/Frank_Nadvornik_Copyright.pdf`) and transcriptions in this repository.  
-**Public Records search performed:** 2026-11-15 on https://publicrecords.copyright.gov.
+**Public Records search performed:** 2026-11-15 on https://publicrecords.copyright.gov.  
+**Request guidance source:** https://www.copyright.gov/rrc/ (as of 2026-11-15).
