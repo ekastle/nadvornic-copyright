@@ -6,6 +6,7 @@ This directory holds research notes on individual musical works associated with 
 
 | Work | Year | Folder | Status |
 |------|------|--------|--------|
+| God Save America | 1941 | [god-save-america/](god-save-america/) | Initial research complete |
 | Christmas Chants (arrangement) | 1946 | [christmas-chants/](christmas-chants/) | Initial research complete |
 
 ## How to use
