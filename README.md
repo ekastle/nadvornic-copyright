@@ -10,7 +10,8 @@ This collection originates from an envelope found while cleaning up a family pro
 
 - `scans/` — Original scanned PDF of the envelope and contents (`Frank_Nadvornik_Copyright.pdf`)
 - `transcripts/` — Precise OCR and cleaned transcriptions of the documents, preserving English and Czech text, including handwritten annotations
-- `notes/` — Research notes and catalog of works
+- `research/` — Per-work research notes and findings (see [research/README.md](research/README.md) for the index)
+- `notes/` — General research notes and catalog of works
 
 ## Key Documents Identified
 
